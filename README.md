@@ -6,7 +6,7 @@
 - **Emerging Technologies:** Exploring AI, machine learning, and blockchain.
 
 ### 🌱 I’m currently learning:
-- **Cloud Computing:** Deepening my knowledge in AWS, Azure, and GCP.
+- **Cloud Computing:** Deepening my knowledge in Software Dovelopment.
 - **DevOps Practices:** Implementing CI/CD pipelines and automation.
 - **Advanced Algorithms:** Enhancing problem-solving skills and code efficiency.
 
