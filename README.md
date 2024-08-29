@@ -5,7 +5,7 @@ I'm a **Software Engineer** specializing in **Change Data Capture (CDC)** and **
 ## 👀 What I'm Interested In:
 - **Software Development:** Building scalable and efficient applications.
 - **Open Source Projects:** Contributing to and learning from the community.
-- **Emerging Technologies:** Exploring AI, machine learning, and blockchain.
+- **Emerging Technologies:** Exploring AI, machine learning, and prompt engineering.
 
 ## 🌱 What I'm Currently Learning:
 - **AI and Prompt Engineering:** Exploring AI models and techniques and focusing on understanding and learning how to craft effective prompts..
