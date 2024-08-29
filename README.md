@@ -8,7 +8,7 @@ I'm a **Software Engineer** specializing in **Change Data Capture (CDC)** and **
 - **Emerging Technologies:** Exploring AI, machine learning, and blockchain.
 
 ## 🌱 What I'm Currently Learning:
-- **Cloud Computing:** Deepening my knowledge in Software Development.
+- **AI and Prompt Engineering:** Exploring AI models and techniques and focusing on understanding and learning how to craft effective prompts..
 - **DevOps Practices:** Implementing CI/CD pipelines and automation.
 - **Advanced Algorithms:** Enhancing problem-solving skills and code efficiency.
 
